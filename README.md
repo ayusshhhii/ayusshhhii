@@ -17,7 +17,7 @@ https://leetcode.com/_ayusshhhii_/
 
 
 •	https://www.figma.com/file/lRQfxiy0ddw2qMIo81R2CL/Resume-Portfolio_Ayushi
-•	https://dribbble.com/_ayusshhhii_ 
+•	https://dribbble.com/ayusshhhii
 
 
 ### Connect with me ❤️
