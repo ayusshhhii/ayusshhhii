@@ -11,7 +11,7 @@
 Android Studio, Visual Studio, Oracle Cloud, Google Cloud, Figma, Git/ Github
 
 ### Technologies: 
-Java, HTML, CSS3, XML, MySql, Python (basic)
+Java, HTML, CSS3, XML, MySql, Python 
 
 ### Link to my coding profile: 
 https://leetcode.com/_ayusshhhii_/
